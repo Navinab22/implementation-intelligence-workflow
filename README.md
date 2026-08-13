@@ -162,30 +162,30 @@ This project represents how I approach implementation problems:
 
 Overview of how the systems work together across the implementation workflow.
 
-![Solution Architecture](architecture.png)
+![Solution Architecture](screenshots/01-architecture.png)
 
 ### Google Calendar Environment
 
 Sample implementation activities used as the workflow input.
 
-![Google Calendar Environment](google-calendar-environment.png)
+![Google Calendar Environment](screenshots/02-google-calendar-environment.png)
 
 ### n8n Automation Workflow
 
 The n8n workflow orchestrating data retrieval, processing, validation, and output.
 
-![n8n Workflow](n8n-workflow.png)
+![n8n Workflow](screenshots/03-n8n-workflow.png)
 
 ### Salesforce Developer Environment
 
 Sample Salesforce environment used to validate implementation project and account mappings.
 
-![Salesforce Accounts](Salesforce-accounts.png)
+![Salesforce Accounts](screenshots/04-salesforce-accounts.png)
 
-![Salesforce Onboarding Project](Salesforce-onboarding-project.png)
+![Salesforce Onboarding Project](screenshots/05-salesforce-onboarding-project.png)
 
 ### Google Sheets Output
 
 Processed implementation information centralized in Google Sheets.
 
-![Google Sheets Output](google-sheets-output.png)
+![Google Sheets Output](screenshots/06-google-sheets-output.png)
