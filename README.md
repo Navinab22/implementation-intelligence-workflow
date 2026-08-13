@@ -155,3 +155,37 @@ Any screenshots and sample datasets shared publicly are sanitized, anonymized, o
 This project represents how I approach implementation problems:
 
 **Identify the operational bottleneck → understand the workflow → design the technical solution → integrate systems → use AI to accelerate development → validate the output → measure the impact.**
+
+## Implementation Evidence
+
+### Solution Architecture
+
+Overview of how the systems work together across the implementation workflow.
+
+![Solution Architecture](architecture.png)
+
+### Google Calendar Environment
+
+Sample implementation activities used as the workflow input.
+
+![Google Calendar Environment](google-calendar-environment.png)
+
+### n8n Automation Workflow
+
+The n8n workflow orchestrating data retrieval, processing, validation, and output.
+
+![n8n Workflow](n8n-workflow.png)
+
+### Salesforce Developer Environment
+
+Sample Salesforce environment used to validate implementation project and account mappings.
+
+![Salesforce Accounts](Salesforce-accounts.png)
+
+![Salesforce Onboarding Project](Salesforce-onboarding-project.png)
+
+### Google Sheets Output
+
+Processed implementation information centralized in Google Sheets.
+
+![Google Sheets Output](google-sheets-output.png)
